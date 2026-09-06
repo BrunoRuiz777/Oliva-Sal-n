@@ -1,0 +1,22 @@
+.
+├── README.md
+├── eslint.config.js
+├── estructura.txt
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+│   ├── favicon.svg
+│   └── icons.svg
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── components
+│   │   └── navbar.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   ├── pages
+│   └── services
+└── vite.config.js
+
+6 directories, 14 files
